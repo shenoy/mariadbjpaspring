@@ -13,10 +13,7 @@ import java.util.Optional;
 public interface TodoRepository extends CrudRepository<Todo, Long> {
 
     void delete(Todo deleted);
-
     List<Todo> findAll();
-
-
     Todo save(Todo persisted);
 
 
