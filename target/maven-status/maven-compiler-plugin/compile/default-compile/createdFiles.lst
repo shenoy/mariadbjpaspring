@@ -1,0 +1,6 @@
+com\jpademo\Application.class
+com\jpademo\entity\Todo.class
+com\jpademo\service\RepositoryTodoSearchService.class
+com\jpademo\config\ApplicationConfiguration.class
+com\jpademo\repository\TodoRepository.class
+com\jpademo\service\TodoSearchService.class
